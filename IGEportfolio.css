@@ -1,0 +1,35 @@
+.imgleft{
+    margin-top: 10px;
+}
+img{
+    height:500px;
+    padding-left: 200px;
+}
+.container-fluid{
+    height:50%;
+}
+.text-center{
+    padding-top: 50px;
+    text-decoration: overline 1px solid;
+}
+.firstletter:first-letter{
+    text-transform: capitalize;
+    font-size: 3em;
+    text-decoration:solid;
+
+}
+#head{
+    font-size: 3em;
+    font-weight: 800;
+}
+#para{
+    font-size: 20px;
+    font-weight: 300;
+}
+.gallery{
+    text-decoration: none;
+}
+.img-thumbnail{
+    height: 100px;
+    width: 300px;
+}
